@@ -1,0 +1,1 @@
+# Console-App-Log4net-Config-Example
